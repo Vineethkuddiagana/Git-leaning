@@ -1,1 +1,1 @@
-Hii this is introduction to git . Adding files to remote repository.
+Hii this is intro to git . Adding files to remote repository.
